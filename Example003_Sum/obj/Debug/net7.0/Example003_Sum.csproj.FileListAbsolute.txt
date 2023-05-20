@@ -1,0 +1,15 @@
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.deps.json
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.runtimeconfig.json
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.dll
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.pdb
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.AssemblyInfo.cs
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.dll
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/refint/Example003_Sum.dll
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.pdb
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.genruntimeconfig.cache
+/Users/sergejpavlov/Desktop/Examples/Example003_Sum/obj/Debug/net7.0/ref/Example003_Sum.dll
